@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Plain",
+		"css": "",
+		"preview": "https://img30.360buyimg.com/pop/jfs/t1/122822/8/21043/143047/61dbf2a6E0fdd032b/d971054b90cc6a7a.png",
+		"wallpaper": "/img/wickedbackground.svg"
+	},
+	{
+		"name": "Fantasy",
+		"css": ".theme--light{--card-background-color:rgba(255 255 255 / 99%)}.theme--dark{--card-background-color:rgba(50 50 50 / 77%)}.theme--light .tab{box-shadow:0 1px 3px rgba(0,0,0,0.05)}.theme--dark #chainwon-search{background:rgba(50 50 50 / 77%);backdrop-filter:blur(10px)}.theme--light .rectangle{box-shadow:0 1px 3px rgba(0,0,0,0.05)}.theme--light .square .logo{box-shadow:0 1px 3px rgba(0,0,0,0.05)}.theme--light .strip{box-shadow:0 1px 3px rgba(0,0,0,0.05)}.theme--light .main{background-color:rgb(255,255,255,0.9);backdrop-filter:blur(15px)}.theme--dark .main{background-color:rgba(0,0,0,0.4);backdrop-filter:blur(15px)}",
+		"preview": "https://img30.360buyimg.com/pop/jfs/t1/208577/37/15372/544218/61dbdfb5E243fc531/1db8dc8ba7ea7adc.png",
+		"wallpaper": "https://images2.alphacoders.com/108/thumb-1920-1083636.jpg"
+	},
+	{
+		"name": "Landscape",
+		"css": ".main {margin-top: calc(100vh - 249px);}",
+		"preview": "https://img30.360buyimg.com/pop/jfs/t1/212773/33/10691/4310157/61dbff5eE3f2641c0/04f2a22d06159f86.png",
+		"wallpaper": "http://h2.ioliu.cn/bing/NaranjoBulnes_ZH-CN0696600867_1920x1080.jpg"
+	},
+	{
+		"name": "Transparent",
+		"css": ".main {background-color:transparent!important;}.square-title,.title{color:white!important;}",
+		"preview":"https://img30.360buyimg.com/pop/jfs/t1/129444/26/21757/1844616/61dc0ae6Ef8bd77d2/035457ee59c195c8.png",
+		"wallpaper": "https://images7.alphacoders.com/737/thumb-1920-737400.jpg"
+	}
+]
