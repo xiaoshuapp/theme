@@ -4,20 +4,7 @@
 .theme--dark {
 	--card-background-color: rgba(50 50 50 / 77%);
 }
-.theme--light .tab {
-	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-}
-.theme--dark #chainwon-search {
-	background: rgba(50 50 50 / 77%);
-	backdrop-filter: blur(10px);
-}
-.theme--light .rectangle {
-	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-}
-.theme--light .square .logo {
-	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
-}
-.theme--light .strip {
+.theme--light .shu-card {
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
 }
 .theme--light .main {

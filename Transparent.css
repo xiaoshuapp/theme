@@ -1,0 +1,14 @@
+.theme--light {
+	--card-background-color: rgba(255 255 255 / 80%);
+}
+.theme--dark {
+	--card-background-color: rgba(50 50 50 / 77%);
+}
+.main {
+	background-color: transparent !important;
+}
+.square-title,
+.title {
+	color: white !important;
+	text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.2);
+}
