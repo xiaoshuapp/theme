@@ -1,0 +1,13 @@
+:root {
+	--border-radius: 8px;
+	--box-shadow: 0 2px 9px rgba(0, 0, 0, 0.1);
+	--box-shadow-hover: 0 12px 25px 5px rgba(0, 0, 0, 0.2);
+	--card-background-color: #fff;
+	--card-margin: 8px;
+	--card-font-color: #555;
+	--group-margin-top: 32px;
+}
+.theme--dark {
+	--card-background-color: #262626;
+	--card-font-color: #ddd;
+}

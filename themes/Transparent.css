@@ -1,0 +1,30 @@
+.Transparent {
+	--border-radius: 18px;
+}
+.Transparent.theme--light {
+	--card-background-color: rgba(255 255 255 / 95%);
+}
+.Transparent.theme--dark {
+	--card-background-color: rgba(50 50 50 / 95%);
+}
+.Transparent .bookmarks {
+	background-color: transparent !important;
+}
+.Transparent .square-title,
+.Transparent .title,
+.Transparent .title .btn-group .v-btn,
+.Transparent .bar .v-btn {
+	color: white !important;
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6)!important;
+}
+
+.Transparent .shu-card {
+	box-shadow: var(--box-shadow);
+}
+
+.Transparent .v-application--wrap {
+	background-color: rgba(0, 0, 0, 0.15);
+}
+.Transparent #screenButton button {
+	color: var(--card-background-color);
+}

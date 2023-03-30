@@ -5,6 +5,11 @@
 		"wallpaper": "/img/wickedbackground.svg"
 	},
 	{
+		"name": "Transparent",
+		"src": "https://i.dawnlab.me/2ecb42390c00a99ca1c310090beca5a6.png",
+		"wallpaper": "https://cn.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_1920x1080.jpg"
+	},
+	{
 		"name": "Fantasy",
 		"src": "https://i.dawnlab.me/550aaad407da4c7141437d64420d5ff0.png",
 		"wallpaper": "https://i.dawnlab.me/f0ed50c6739b0092ebefb9d281ed10ee.png"
@@ -13,11 +18,6 @@
 		"name": "Landscape",
 		"src": "https://img30.360buyimg.com/pop/jfs/t1/212773/33/10691/4310157/61dbff5eE3f2641c0/04f2a22d06159f86.png",
 		"wallpaper": "http://h2.ioliu.cn/bing/NaranjoBulnes_ZH-CN0696600867_1920x1080.jpg"
-	},
-	{
-		"name": "Transparent",
-		"src": "https://i.dawnlab.me/c02e06a9197415b8cfd1a31f3557d458.png",
-		"wallpaper": "https://h2.ioliu.cn/bing/FreshSalt_ZH-CN12818759319_1920x1080.jpg"
 	},
 	{
 		"name": "Group",
