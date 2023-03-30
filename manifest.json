@@ -23,5 +23,10 @@
 		"name": "Group",
 		"src": "https://i.dawnlab.me/a7c5d0c3ad2c9962e6d850f373d8ede8.png",
 		"wallpaper": "/img/wickedbackground.svg"
+	},
+	{
+		"name": "Meteor",
+		"src": "https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1601352209555-489a72668fda?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=0&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2xvdWR8fHx8fHwxNjU5NTgzODQx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1920",
+		"wallpaper": "https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1601352209555-489a72668fda?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=0&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2xvdWR8fHx8fHwxNjU5NTgzODQx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1920"
 	}
 ]

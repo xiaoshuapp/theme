@@ -21,11 +21,11 @@
 .Meteor .v-application--wrap {
 	background-color: rgba(0, 0, 0, 0.1);
 }
-.Meteor .square .logo {
-	padding: 6px !important;
+.Meteor .square .shu-card {
+	padding: 8px !important;
 	border-radius: 50% !important;
 }
-.Meteor .square .logo .v-avatar {
+.Meteor .square .shu-card .v-avatar {
 	border-radius: 50% !important;
 }
 .Meteor .square-title {
