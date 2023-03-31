@@ -16,6 +16,7 @@
 .Transparent .bar .v-btn {
 	color: white !important;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6)!important;
+	filter: drop-shadow(0 1px 3px rgb(120 120 120 / 60%));
 }
 
 .Transparent .shu-card {
