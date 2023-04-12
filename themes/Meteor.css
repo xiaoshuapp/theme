@@ -1,34 +1,42 @@
-.Meteor.theme--light {
-	--card-background-color: rgba(255 255 255 / 50%);
-	--box-shadow: 0 2px 16px 3px rgba(0, 0, 0, 0.2);
+.v-application--wrap {
+	background-color: rgba(0, 0, 0, 0.1);
 }
-.Meteor.theme--dark * {
-	--card-background-color: rgba(0 0 0 / 20%);
+.theme--light .Meteor {
+	--card-background-color: rgba(255 255 255 / 50%);
+	--card-box-shadow: 0 2px 16px 3px rgba(0, 0, 0, 0.2);
+}
+.theme--dark .Meteor {
+	--card-background-color: rgba(0 0 0 / 20%)!important;
 }
 .Meteor .bookmarks {
 	background-color: transparent !important;
 }
-.Meteor .title {
+.Meteor .square-title,
+.Meteor .title,
+.Meteor .title .btn-group .v-btn,
+.Meteor .toolbar .no-active {
 	color: white !important;
-	text-shadow: 1px 1px 3px rgba(255, 255, 255, 0.2);
+	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6)!important;
+	filter: drop-shadow(0 1px 3px rgb(120 120 120 / 60%));
 }
-.Meteor.theme--light .shu-card {
+.theme--light .Meteor .homey-card {
 	backdrop-filter: blur(25px) brightness(1.2);
 }
-.Meteor.theme--dark .shu-card {
+.theme--dark .Meteor .homey-card {
 	backdrop-filter: blur(10px);
 }
-.Meteor .v-application--wrap {
-	background-color: rgba(0, 0, 0, 0.1);
-}
-.Meteor .square .shu-card {
-	padding: 8px !important;
+.Meteor .square .homey-card {
+	padding: 9px !important;
 	border-radius: 50% !important;
 }
-.Meteor .square .shu-card .v-avatar {
+.Meteor .square .homey-card .v-avatar {
 	border-radius: 50% !important;
 }
 .Meteor .square-title {
 	color: white !important;
 	text-shadow: 1px 1px 3px rgb(0 0 0 / 80%);
+}
+
+.Meteor .square .folder {
+	padding: 10px;
 }

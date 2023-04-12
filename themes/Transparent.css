@@ -1,10 +1,13 @@
-.Transparent {
-	--border-radius: 18px;
+.v-application--wrap {
+	background-color: rgba(0, 0, 0, 0.15);
 }
-.Transparent.theme--light {
+.Transparent {
+	--card-border-radius: 18px;
+}
+.theme--light .Transparent {
 	--card-background-color: rgba(255 255 255 / 95%);
 }
-.Transparent.theme--dark {
+.theme--dark .Transparent {
 	--card-background-color: rgba(50 50 50 / 95%);
 }
 .Transparent .bookmarks {
@@ -13,19 +16,12 @@
 .Transparent .square-title,
 .Transparent .title,
 .Transparent .title .btn-group .v-btn,
-.Transparent .bar .v-btn {
+.Transparent .toolbar .no-active {
 	color: white !important;
 	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6)!important;
 	filter: drop-shadow(0 1px 3px rgb(120 120 120 / 60%));
 }
 
-.Transparent .shu-card {
-	box-shadow: var(--box-shadow);
-}
-
-.Transparent .v-application--wrap {
-	background-color: rgba(0, 0, 0, 0.15);
-}
-.Transparent #screenButton button {
-	color: var(--card-background-color);
+.Transparent .homey-card {
+	box-shadow: var(---card-box-shadow);
 }

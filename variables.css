@@ -1,13 +1,30 @@
-:root {
-	--border-radius: 8px;
-	--box-shadow: 0 2px 9px rgba(0, 0, 0, 0.1);
-	--box-shadow-hover: 0 12px 25px 5px rgba(0, 0, 0, 0.2);
-	--card-background-color: #fff;
-	--card-margin: 8px;
-	--card-font-color: #555;
+::root {
 	--group-margin-top: 32px;
+	--card-margin: 8px;
 }
-.theme--dark {
+
+.theme {
+	--card-border-radius: 8px;
+	--card-box-shadow: 0 2px 9px rgba(0, 0, 0, 0.1);
+	--card-box-shadow-hover: 0 12px 25px 5px rgba(0, 0, 0, 0.2);
+	--card-background-color: #fff;
+	--card-font-color: #555;
+}
+
+.theme--dark .theme {
+	--card-background-color: #262626;
+	--card-font-color: #ddd;
+}
+
+.v-dialog {
+	--card-border-radius: 8px;
+	--card-box-shadow: 0 2px 9px rgba(0, 0, 0, 0.1);
+	--card-box-shadow-hover: 0 12px 25px 5px rgba(0, 0, 0, 0.2);
+	--card-background-color: #fff;
+	--card-font-color: #555;
+}
+
+.theme--dark .v-dialog {
 	--card-background-color: #262626;
 	--card-font-color: #ddd;
 }
