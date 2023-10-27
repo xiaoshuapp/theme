@@ -1,14 +1,18 @@
-.theme--light .Fantasy .bookmarks {
+.theme--light .Fantasy .space {
 	background-color: rgba(255, 255, 255, 0.9);
 	backdrop-filter: blur(20px);
 }
-.theme--dark .Fantasy .bookmarks {
+
+.theme--dark .Fantasy .space {
 	background-color: rgba(0, 0, 0, 0.85)!important;
 	backdrop-filter: blur(20px);
 }
-.Fantasy .bookmarks {
+
+.Fantasy .space {
 	height: 100%;
+	min-height: 100vh;
 }
-.Fantasy .homey-card {
+
+.Fantasy .shu-card {
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07);
 }

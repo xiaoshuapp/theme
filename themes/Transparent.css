@@ -1,25 +1,9 @@
-.v-application--wrap {
-	background-color: rgba(0, 0, 0, 0.15);
-}
 .Transparent {
 	--card-border-radius: 18px;
 }
-.theme--light .Transparent {
-	--card-background-color: rgba(255 255 255 / 95%);
-}
-.theme--dark .Transparent {
-	--card-background-color: rgba(50 50 50 / 95%);
-}
-.Transparent .bookmarks {
-	background-color: transparent !important;
-}
-.Transparent .square-title,
-.Transparent .title,
-.Transparent .title .btn-group .v-btn,
-.Transparent .toolbar .no-active {
+
+.Transparent .out-text {
 	color: white !important;
-	text-shadow: 0 1px 3px rgba(0, 0, 0, 0.6)!important;
-	filter: drop-shadow(0 1px 3px rgb(120 120 120 / 60%));
 }
 
 .Transparent .homey-card {

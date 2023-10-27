@@ -10,6 +10,21 @@
 		"wallpaper": "https://cn.bing.com/th?id=OHR.Knobbelzwaan_EN-US4809716001_1920x1080.jpg"
 	},
 	{
+		"name": "Hyper",
+		"src": "https://i.dawnlab.me/846cf64aaf0ceee2688b4fc342c52681.png",
+		"wallpaper": "https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1541420937988-702d78cb9fa1?auto=format&fit=crop&q=80&w=1740&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+	},
+	{
+		"name": "Fluid",
+		"src": "https://i.dawnlab.me/4921cd51ceca11e84df56a9a1bdc6f62.png",
+		"wallpaper": "https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1668018761948-76af2d1253b8?auto=format&fit=crop&q=90&w=1920"
+	},
+	{
+		"name": "Meteor",
+		"src": "https://i.dawnlab.me/2437f0bbdf2758b379a247f5e9b4d247.png",
+		"wallpaper": "https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1601352209555-489a72668fda?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=0&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2xvdWR8fHx8fHwxNjU5NTgzODQx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1920"
+	},
+	{
 		"name": "Fantasy",
 		"src": "https://i.dawnlab.me/550aaad407da4c7141437d64420d5ff0.png",
 		"wallpaper": "https://i.dawnlab.me/f0ed50c6739b0092ebefb9d281ed10ee.png"
@@ -25,8 +40,8 @@
 		"wallpaper": "/img/wickedbackground.svg"
 	},
 	{
-		"name": "Meteor",
-		"src": "https://i.dawnlab.me/2437f0bbdf2758b379a247f5e9b4d247.png",
-		"wallpaper": "https://dogefs.s3.ladydaily.com/~/source/unsplash/photo-1601352209555-489a72668fda?crop=entropy&cs=tinysrgb&fit=crop&fm=jpg&h=0&ixid=MnwxfDB8MXxyYW5kb218MHx8Y2xvdWR8fHx8fHwxNjU5NTgzODQx&ixlib=rb-1.2.1&q=80&utm_campaign=api-credit&utm_medium=referral&utm_source=unsplash_source&w=1920"
+		"name": "Plain",
+		"src": "https://i.dawnlab.me/0a089821bdd74a5114eb685a70c5aedb.png",
+		"wallpaper": "/img/wickedbackground.svg"
 	}
 ]

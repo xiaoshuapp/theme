@@ -1,6 +1,5 @@
 ::root {
-	--group-margin-top: 32px;
-	--card-margin: 8px;
+	--flow-margin-top: 32px;
 }
 
 .theme {
@@ -12,8 +11,43 @@
 }
 
 .theme--dark .theme {
-	--card-background-color: #262626;
+	--card-background-color: rgb(50, 50, 50);
 	--card-font-color: #ddd;
+}
+
+.space {
+}
+
+.flow {
+}
+
+.module {
+}
+
+.shu-card {
+	border-radius: var(--card-border-radius);
+	background-color: var(--card-background-color);
+}
+
+.theme--light .shu-card {
+	color: rgba(0, 0, 0, 0.87);
+}
+
+.theme--dark .shu-card {
+	color: #fff;
+}
+
+.out-text {
+	filter: drop-shadow(0 0 5px rgb(120 120 120));
+}
+
+.text-primary {
+	color: inherit;
+}
+
+.text-secondary {
+	color: inherit;
+	opacity: 0.7;
 }
 
 .v-dialog {
