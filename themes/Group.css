@@ -26,3 +26,7 @@
 .theme--dark .Group .space {
 	background-color: #171717;
 }
+
+.Group .out-text {
+	filter: none;
+}

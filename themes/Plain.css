@@ -7,3 +7,11 @@
 .theme--dark .Plain .space {
 	background-color: #171717;
 }
+
+.Plain .out-text {
+	filter: none;
+}
+
+.Plain .square .icon {
+	border-radius: 50%;
+}

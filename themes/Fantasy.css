@@ -16,3 +16,11 @@
 .Fantasy .shu-card {
 	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.07);
 }
+
+.Fantasy .out-text {
+	filter: none;
+}
+
+.Fantasy .square .icon {
+	border-radius: 50%;
+}
