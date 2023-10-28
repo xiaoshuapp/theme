@@ -1,8 +1,5 @@
-::root {
-	--flow-margin-top: 32px;
-}
-
 .theme {
+	--flow-margin-top: 32px;
 	--card-border-radius: 8px;
 	--card-box-shadow: 0 2px 9px rgba(0, 0, 0, 0.1);
 	--card-box-shadow-hover: 0 12px 25px 5px rgba(0, 0, 0, 0.2);

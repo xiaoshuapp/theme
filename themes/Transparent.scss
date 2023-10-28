@@ -1,0 +1,11 @@
+.Transparent {
+	--card-border-radius: 18px;
+
+	.out-text {
+		color: white !important;
+	}
+
+	.shu-card {
+		box-shadow: var(---card-box-shadow);
+	}
+}
