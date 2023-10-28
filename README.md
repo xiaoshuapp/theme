@@ -1,13 +1,36 @@
-# Themes
+# 开发者主题文档
 
-## Variables
+欢迎使用小舒同学开发者主题库！该库包含了一系列主题相关的文件和资源，帮助开发者扩展小舒同学的外观和样式。
 
-<https://github.com/xiaoshuapp/xiaoshu-theme/blob/main/preset.css>
+## 文件结构
 
-## Reference
+主题库的文件结构如下：
 
-<https://github.com/xiaoshuapp/xiaoshu-theme/tree/main/themes>
+- `themes` 包含了不同主题的文件和资源。
+- `index.js` 主题系统的索引文件。
+- `manifest.json` 主题清单文件，用于添加主题到小舒同学的配置中。
+- `preset.css` 主题的默认样式文件，你可以参考这里面暴露的样式配置来开发你的主题。
 
-## Submit
+## 主题开发指南
 
-Add your theme to [manifest.json](https://github.com/xiaoshuapp/xiaoshu-theme/blob/main/manifest.json)
+如果你想为小舒同学开发新的主题，可以按照以下步骤进行：
+
+1. 在 `themes` 文件夹中创建一个新的文件夹或者文件，命名为你的主题名称。
+2. 在新创建的主题文件夹中，添加主题所需的样式文件或其他资源。
+3. 在 `index.js` 中 export 你的主题。
+4. 在 `manifest.json` 文件中添加你的主题配置，包括主题名称、作者、描述等信息。
+5. 提交 PR 到此库。然后联系 @nexmoe。
+
+## 参考资源
+
+- [主题样式文件 - preset.css](https://github.com/xiaoshuapp/theme/blob/main/preset.css)
+- [主题库 - themes 文件夹](https://github.com/xiaoshuapp/theme/tree/main/themes)
+
+## 注意
+
+- 编写 css 文件时，所有选择器前必须包含为主题名称的选择器。
+- 主题名称为大小写敏感，请在任何地方保持大小写一致。
+
+我们非常欢迎你为小舒同学贡献主题！感谢你的支持和参与！
+
+如有任何问题或疑问，请随时与我们联系。
