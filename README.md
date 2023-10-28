@@ -2,7 +2,7 @@
 
 ## Variables
 
-<https://github.com/xiaoshuapp/xiaoshu-theme/blob/main/variables.css>
+<https://github.com/xiaoshuapp/xiaoshu-theme/blob/main/preset.css>
 
 ## Reference
 
