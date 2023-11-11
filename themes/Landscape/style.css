@@ -5,10 +5,10 @@
 	min-height: 100vh;
 }
 
-.theme--dark .Landscape .space {
-	background-color: #171717;
-}
-
 .Landscape .out-text {
 	filter: none;
+}
+
+.theme--dark .Landscape .space {
+	background-color: #171717;
 }
