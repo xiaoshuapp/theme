@@ -23,7 +23,7 @@
 	}
 }
 
-.theme--light .Meteor {
+.v-theme--light .Meteor {
 	--card-background-color: rgba(255 255 255 / 50%);
 	--card-box-shadow: 0 2px 16px 3px rgba(0, 0, 0, 0.2);
 
@@ -32,7 +32,7 @@
 	}
 }
 
-.theme--dark .Meteor {
+.v-theme--dark .Meteor {
 	--card-background-color: rgba(0 0 0 / 20%) !important;
 
 	.shu-card {

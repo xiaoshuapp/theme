@@ -11,7 +11,7 @@
 	box-shadow: var(--card-box-shadow);
 }
 
-.theme--dark .Group .flow {
+.v-theme--dark .Group .flow {
 	--card-background-color: #1e1e1e;
     background-color: #000;
 	overflow: hidden;
@@ -23,7 +23,7 @@
 	min-height: 100vh;
 }
 
-.theme--dark .Group .space {
+.v-theme--dark .Group .space {
 	background-color: #171717;
 }
 
