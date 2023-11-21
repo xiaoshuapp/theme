@@ -1,7 +1,7 @@
 {
-  "name": "lib",
+  "name": "theme",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.0-development",
   "type": "module",
   "files": [
     "dist",
@@ -17,12 +17,18 @@
   },
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "semantic-release": "semantic-release"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.4.0",
     "sass": "^1.69.5",
     "vite": "^4.4.11",
-    "vue": "^3.3.7"
+    "vue": "^3.3.7",
+    "semantic-release": "^22.0.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xiaoshuapp/theme.git"
   }
 }
