@@ -21,14 +21,16 @@
     "dist"
   ],
   "scripts": {
-    "build": "unbuild && run-s gen",
+    "build": "unbuild && run-s gen && run-s replace-imports",
     "dev": "unbuild --stub && run-s gen",
     "gen": "run-p gen:*",
-    "gen:manifests": "vite-node ./scripts/genManifest.ts"
+    "gen:manifests": "vite-node ./scripts/genManifest.ts",
+    "replace-imports": "vite-node ./scripts/replaceImports.js"
   },
   "devDependencies": {
     "@types/fs-extra": "^11.0.4",
     "fs-extra": "^11.1.1",
+    "globby": "^14.0.0",
     "mkdist": "^1.3.1",
     "npm-run-all": "^4.1.5",
     "picocolors": "^1.0.0",
