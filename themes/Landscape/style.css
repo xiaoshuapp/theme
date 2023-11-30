@@ -5,7 +5,7 @@
 	min-height: 100vh;
 }
 
-.Landscape .out-text {
+.Landscape .text-outer {
 	filter: none;
 }
 
