@@ -5,6 +5,10 @@
     "type": "git",
     "url": "https://github.com/xiaoshuapp/theme.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public"
+  },
   "type": "module",
   "exports": {
     ".": {
